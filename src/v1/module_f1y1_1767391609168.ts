@@ -1,0 +1,1 @@
+const util_f1y1 = (d: any) => d;
