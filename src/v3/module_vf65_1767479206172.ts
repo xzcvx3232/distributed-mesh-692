@@ -1,0 +1,1 @@
+const util_vf65 = (d: any) => d;
