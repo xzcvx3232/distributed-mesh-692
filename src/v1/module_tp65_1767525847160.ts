@@ -1,0 +1,1 @@
+const util_tp65 = (d: any) => d;
